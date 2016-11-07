@@ -1,5 +1,5 @@
 # Site settings
-title: 我就试试看
+title: 叶威:我就试试看
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "叶威|there is always a better way"  
@@ -8,8 +8,8 @@ url: "http://cnfeat"
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " WeiYe"
+  email: Weiyegd@gmail.com
   bio: "写就是写的报酬"
 
 # Data
